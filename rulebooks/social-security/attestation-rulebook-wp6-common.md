@@ -1,11 +1,10 @@
-
 # Attestation Rulebook for attestations of type  *ADD THE ATTESTATION TYPE HERE*
 
 *Provide information about the author(s) of this Rulebook in the following form:*
 
 * Author(s): 
     * Gerd Bauer, DC4EU WP6
-    * Katharina Hilmar, DC4EU WP6
+    * Katharina Hilmar2, DC4EU WP6
 * Previous Authors
     * [NAME SURNAME, AFFILIATION (versions)]
     * [NAME SURNAME, AFFILIATION (versions)]
